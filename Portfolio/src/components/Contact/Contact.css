@@ -1,0 +1,14 @@
+.contact {
+    margin-top: 90px;
+    place-items: center;
+    font-weight: 700;
+    font-size: 40px;
+    border-radius:20px;
+}
+
+ul {
+    font-weight: 500;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.548);
+    border-radius:20px;
+}

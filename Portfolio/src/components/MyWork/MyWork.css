@@ -1,0 +1,18 @@
+.works {
+    margin-top: 90px;
+    place-items: center;
+    font-weight: 700;
+    font-size: 40px;
+    border-radius:20px;
+}
+
+.links {
+    margin-top: 70px;
+    place-items: center;
+    font-weight: 600;
+    font-size: 35px;
+    border-radius:20px;
+    background-color: rgba(0, 0, 0, 0.548);
+    border-radius:20px;
+}
+
